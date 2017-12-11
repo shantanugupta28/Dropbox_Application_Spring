@@ -1,0 +1,33 @@
+{
+  "name": "logindemo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material/typography": "^0.3.0",
+    "axios": "^0.17.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "material": "^0.2.0",
+    "material-ui": "^1.0.0-beta.20",
+    "multer": "^1.1.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-file-download": "^0.3.5",
+    "react-file-input": "^0.2.5",
+    "react-modal": "^3.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.13",
+    "should": "^13.1.2",
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "kafka-node": "^2.2.3"
+  }
+}

@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+
+}
+
+.coloumn-2 {
+  float: left;
+}
+
+.App-logo {
+  float: none;
+  height: 80px;
+  width: 80px;
+}
+
+.App-logo-login {
+  height: 90px;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-header {
+  background-color: midnightblue;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-header-welcome {
+  background-color: midnightblue;
+  height: 150px;
+  padding: 20px;
+  color: white;
+
+}
+
+.row {
+  background-color: #a7dbd8;
+
+  color: white;
+  height: 650px;
+}
+
+.col-sm-8 {
+  background-color: white;
+  height: 650px;
+}
+
+.cloumn3 {
+  background-color: #abef98;
+
+}
+
+.row justify-content-md-center {
+  float: right;
+}
+.col-sm-9 {
+  background-color: deeppink;
+  height: 1950vh;
+
+}
+.col-sm-3 {
+  background-color: white;
+  height: 1950vh;
+}
+
+h1 {
+  font-size: 500%;
+}
